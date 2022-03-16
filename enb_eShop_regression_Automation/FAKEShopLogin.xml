@@ -1,0 +1,10 @@
+<container name="TEST2">
+	<field name="sfc-url" value="https://fake-consumer--pp2uat.fake.morefake.com/fake"></field>
+	<field name="eshop-url" value="https://fake.test.com/eshop/customerCare/dist/"></field>
+	<container name="EshopLoginPage">
+	<container name="Valid">
+		<field name="tbx_username" value="fakeeshop@lumen.com" type="mandatory" />
+		<field name="tbx_password" value="fakeyPass" type="mandatory" />        
+	</container>
+</container>
+
