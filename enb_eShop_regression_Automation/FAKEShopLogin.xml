@@ -8,3 +8,5 @@
 	</container>
 </container>
 
+<field name=`password` value="fakeyPass" type="mandatory" />        
+<field name='anypassword' value="fakeyPass" type="mandatory" />        
